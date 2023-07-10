@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Starship
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Starship\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=Starship()
+comment2.params=
+comment2.target=void\ prepareActor()
+comment3.params=
+comment3.target=void\ checkKeyPress()
+comment4.params=
+comment4.target=void\ fire()
+comment5.params=
+comment5.target=void\ act()
+comment6.params=reloadTime
+comment6.target=void\ setGunReloadTime(int)
+comment7.params=
+comment7.target=void\ checkCollision()
+numComments=8
