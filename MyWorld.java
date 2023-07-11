@@ -25,7 +25,7 @@ public class MyWorld extends World
         prepare();
         // Starship erstellen
         starship = new Starship();
-        addObject(starship, 300, 375);
+        addObject(starship, 300, 375); 
     }
     public void prepare()
     {
