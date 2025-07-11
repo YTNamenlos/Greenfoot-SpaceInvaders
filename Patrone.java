@@ -1,5 +1,5 @@
 import greenfoot.*;  // (World, Actor, GreenfootImage, Greenfoot and MouseInfo)
-
+//gegnerisches Feuer (verworfen, weil zu schwer für den Spieler)
 /**
  * Write a description of class Patrone here.
  * 
